@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-console.log("hello from cli");
+const processYamlFiles = require("./lib/add-translations.js");
+processYamlFiles();

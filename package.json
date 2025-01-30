@@ -10,5 +10,8 @@
     "hello": "./cli.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "yaml": "^2.3.1"
+  }
 }
